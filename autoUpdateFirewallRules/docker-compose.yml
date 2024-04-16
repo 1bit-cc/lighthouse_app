@@ -1,0 +1,6 @@
+version: '3'
+services:
+  ai_assistant:
+    image: autoUpdateFirewallRules:latest
+    volumes:
+      - ./config.py:/workspace/config.py

@@ -1,0 +1,13 @@
+{
+    "ApiDomain":"lighthouse.tencentcloudapi.com",
+    "secretId":"AKIDxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "secretKey":"xxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "IPListURL":"https://www.cloudflare-cn.com/ips-v4/#",
+    "InstanceId":[
+        "lhins-xxxxxx",
+        "lhins-xxxxxa"
+    ],
+    "sleepTime":86400,
+    "pushMsgOpen":1,
+    "workWxWebHook":"https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=xxxxx-xxx-xx-xxx-xxxxxxxx"
+}
